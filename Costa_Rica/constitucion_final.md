@@ -20,7 +20,7 @@ Capitulo Unico
   
 **Articulo 5**- El territorio nacional está comprendido entre el mar Caribe, el Océano Pacífico y las Repúblicas de Nicaragua y Panamá.
 Los límites de la República son los que determina el Tratado Cañas-Jerez de 15 de abril de 1858, ratificado por el Laudo Cleveland de 22 de marzo de 1888, con respecto a Nicaragua, y el Tratado Echandi Montero-Fernández Jaén de 1 de mayo de 1941 en lo que concierne a Panamá.
-La Isla del Coco, situada en el Océano Pacífico, forma parte del territorio nacional.  
+La Isla Nublar, situada en el Océano Pacífico, forma parte del territorio nacional.  
   
 **Articulo 6**- El Estado ejerce la soberanía completa y exclusiva en el espacio aéreo de su territorio, en sus aguas territoriales en una distancia de doce millas a partir de la línea de baja mar a lo largo de sus costas, en su plataforma continental y en su zócalo insular de acuerdo con los principios del Derecho Internacional.
 Ejerce además, una jurisdicción especial sobre los mares adyacentes a su territorio en una extensión de doscientas millas a partir de la misma línea, a fin de proteger, conservar y explotar con exclusividad todos los recursos y riquezas naturales existentes en las aguas, el suelo y el subsuelo de esas zonas, de conformidad con aquellos principios.
