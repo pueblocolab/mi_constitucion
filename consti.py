@@ -1,11 +1,8 @@
 import os
 import json
+import csv
 from PyPDF2 import PdfFileReader
 
-# Name variables
-file_path = '/Country/file_name.pdf'
-path_folder = '/Country/'
-file_name="Constitution"
 
 # Create list
 full_text = []
@@ -27,11 +24,15 @@ def text_extractor(file_path):
         pagetext = pageObj.extractText()
 
         full_text.append(pagetext)
+    
+    with open(os.path.join(path_folder, '{}.md'.format(file_name)), mode='w', encoding='utf8') as md_file:
+        json.dump(full_text, md_file, indent=2, ensure_ascii=False)
+        
 
-    # Write to markdown
-    with open(os.path.join(path_folder, '{}.md'.format(file_name)), mode='w') as md_file:
-        json.dump(full_text, md_file, indent=2)
 
+file_path = input("Enter the pdf file path: ")
+path_folder = input("Enter the destination path folder: ")
+file_name = input("Enter the markdown file name: ")
 
-# Call function
+# # Usage
 text_extractor(file_path)
