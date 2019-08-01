@@ -30,5 +30,16 @@ Ejerce además, una jurisdicción especial sobre los mares adyacentes a su ter
 Los tratados públicos y los convenios internacionales referentes a la integridad territorial o la organización política del país, requerirán aprobación de la Asamblea Legislativa, por votación no menor de las tres cuartas partes de la totalidad de sus miembros, y la de los dos tercios de los miembros de una Asamblea Constituyente, convocada al efecto.
 (*) Reformado el artículo 7 por la Ley N° 4123 de 31 de mayo de 1968, publicada en el tomo II de la Colección de Leyes y Decretos de 1968.
  
-  
-. 
+**Artículo 8**-
+Los Estados extranjeros sólo podrán adquirir en el territorio de la República, sobre bases de reciprocidad, los inmuebles necesarios para sede de sus representaciones diplomáticas, sin perjuicio de lo que establezcan los convenios internacionales. 
+
+**Artículo 9** -
+(*) El Gobierno de la República es popular, representativo, participativo, alternativo y responsable. Lo ejercen
+el pueblo y tres Poderes distintos e independientes entre sí. El Legislativo, el Ejecutivo y el Judicial.
+(*) Reformado el artículo 9 por la Ley N° 8364 de 1 de julio de 2003, publicada en La Gaceta N° 146 de 31 de julio del 2003. Ninguno de los Poderes puede delegar el ejercicio de funciones que le son propias. 
+
+Un Tribunal Supremo de Elecciones, con el rango e independencia de los Poderes del Estado, tiene a su cargo en
+forma exclusiva e independiente la organización, dirección y vigilancia de los actos relativos al sufragio, así
+como las demás funciones que le atribuyen esta Constitución y las leyes.  (*) Adicionado el último párrafo del artículo
+9 por la Ley N° 5704 de 5 de junio de 1975, publicada en el tomo IV de la Colección de Leyes y Decretos de 1975.
+
