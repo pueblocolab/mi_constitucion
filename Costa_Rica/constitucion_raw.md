@@ -1,173 +1,82 @@
-**Artículo 8**-
-Los Estados extranjeros sólo podrán adquirir en el territorio de la República, sobre bases de reciprocidad, los inmuebles necesarios para sede de sus representaciones diplomáticas, sin perjuicio de lo que establezcan los convenios internacionales. 
+**Artículo 10**-
+(*) Corresponderá a una Sala especializada de la Corte Suprema de Justicia declarar, por mayoría absoluta de
+sus miembros, la inconstitucionalidad de las normas de cualquier naturaleza y de los actos sujetos al Derecho Público. No serán impugnables en esta vía los actos jurisdiccionales del Poder Judicial, la declaratoria de elección que haga el Tribunal Supremo de Elecciones y los demás que determine la ley. Le corresponderá además: 
 
-**Artículo 9** -
-(*) El Gobierno de la República es popular, representativo, participativo, alternativo y responsable. Lo ejercen
-el pueblo y tres Poderes distintos e independientes entre sí. El Legislativo, el Ejecutivo y el Judicial.
-(*) Reformado el artículo 9 por la Ley N° 8364 de 1 de julio de 2003, publicada en La Gaceta N° 146 de 31 de julio del 2003. Ninguno de los Poderes puede delegar el ejercicio de funciones que le son propias. 
+a) Dirimir los conflictos de competencia entre los poderes del Estado, incluido el Tribunal Supremo de Elecciones, así como con las demás entidades u órganos que indique la ley. 
 
-Un Tribunal Supremo de Elecciones, con el rango e independencia de los Poderes del Estado, tiene a su cargo en
-forma exclusiva e independiente la organización, dirección y vigilancia de los actos relativos al sufragio, así
-como las demás funciones que le atribuyen esta Constitución y las leyes.  (*) Adicionado el último párrafo del artículo
-9 por la Ley N° 5704 de 5 de junio de 1975, publicada en el tomo IV de la Colección de Leyes y Decretos de 1975.
+b) Conocer de las consultas sobre proyectos de reforma constitucional, de aprobación de convenios o tratados internacionales y de otros proyectos de ley, según se disponga en la ley.  (*) Reformado el artículo 10 por la Ley N° 7128 de 18 de agosto de 1989, publicada en La Gaceta N° 166 de 1 de setiembre de 1989.
 
- **Artículo 10**-
-(*) Corresponderá a una Sala especializada de la Corte
-Suprema de Justicia declarar, por mayoría absoluta de
-sus miembros, la
-inconstitucionalidad de las normas de cualquier naturaleza y de los actos
-sujetos al Derecho Público. No serán impugnables en esta vía los actos
-jurisdiccionales del Poder Judicial, la
-declaratoria de elección que haga el
-Tribunal Supremo de Elecciones y los demás que determine la ley. 
-Le corresponderá además: 
-a) Dirimir los conflictos de competencia entre los poderes del Estado,
-incluido el Tribunal Supremo de Elecciones, así como con las demás
-entidades u órganos que indique la ley. 
-b) Conocer de las consultas sobre proyectos de reforma constitucional, de
-aprobación de convenios o tratados internacionales y de otros proyectos de
-ley, según se disponga en la ley.  (*) Reformado el artículo 10 por la Ley N° 7128 de 18 de agosto de 1989, publicada en La
-Gaceta N° 166 de 1 de setiembre de 1989.
-Nota: Asimismo el artículo
-Transitorio de dicha ley establece: ﬁLa sala que se crea en el
-artículo 10 estará integrada por siete magistrados y por los suplentes
-que determine la ley,
-que serán elegidos por la Asamblea Legislativa
-por votación no menor
-de los dos tercios de
-sus miembros. La Asamblea Legislativa hará el nombramiento de los miembros de la Sala
-dentro de las diez sesiones siguientes a la publicación de la presente ley; dos de ellos los
-escogerá de entre los miembros
-de la Sala Primera de la Corte Suprema de Justicia, cuya
-integración quedará así reducida.
- ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
-____ 
+Nota: Asimismo el artículo Transitorio de dicha ley establece: ﬁLa sala que se crea en el artículo 10 estará integrada por siete magistrados y por los suplentes que determine la ley, que serán elegidos por la Asamblea Legislativa
+por votación no menor de los dos tercios de sus miembros. La Asamblea Legislativa hará el nombramiento de los miembros de la Sala dentro de las diez sesiones siguientes a la publicación de la presente ley; dos de ellos los escogerá de entre los miembros de la Sala Primera de la Corte Suprema de Justicia, cuya integración quedará así reducida.
+ 
+Mientras no se haya promulgado una ley de la jurisdicción constitucional, la Sala continuará tramitando los asuntos de su competencia, aún los pendientes, de conformidad con las disposiciones vigentes.
 
+**Artículo 11**-
+(*) Los funcionarios públicos son simples depositarios de la autoridad. Están obligados a cumplir los deberes que la ley les impone y no pueden arrogarse facultades no concedidas en ella. Deben prestar juramento de observar y cumplir esta
+Constitución y las leyes. La acción para exigirles la responsabilidad penal por sus actos es pública. La Administración Pública en sentido amplio, estará sometida a un procedimiento de evaluación de resultados y rendición de cuentas, con la
+consecuente responsabilidad personal para los funcionarios en el cumplimiento de sus deberes. La ley señalará los medios para que este control de resultados y rendición de cuentas opere como un sistema que cubra todas las instituciones públicas.
 
-Mientras no se haya promulgado una ley de la
-jurisdicción constitucional, la Sala continuará
-tramitando los asuntos de su competencia,
-aún los pendientes, de conformidad con las
-disposiciones vigentesﬂ.
- **Artículo 11**-
-(*) Los funcionarios públicos son simples depositarios de la
-autoridad. Están obligados a cumplir los deberes que la ley les impone y no
-pueden arrogarse facultades no concedidas en ella. Deben prestar juramento
-de observar y cumplir esta
-Constitución y las leyes.
-La acción para exigirles
-la responsabilidad penal por sus actos es pública.
-La Administración Pública en sentido amplio, estará sometida a un
-procedimiento de evaluación de resultados y rendición de cuentas, con la
-consecuente responsabilidad personal
-para los funcionarios en el
-cumplimiento de sus deberes. La ley
-señalará los medios para que este
-control de resultados y rendición de
-cuentas opere como un sistema que
-cubra todas las instituciones públicas.
-(*) Reformado el artículo 11 por la Ley N°
-8003 de 8 de junio de 2000, publicada en La
-Gaceta N° 126 de 30 de junio de 2000.
- **Artículo 12**- Se proscribe el Ejército como institución permanente. 
-Para la vigilancia y conservación del orden público, habrá las fuerzas de
-policía necesarias. 
-Sólo por convenio continental o para la
-defensa nacional podrán organizarse
-fuerzas militares; unas y otras estarán
-siempre subordinadas al poder civil;
-no podrán deliberar, ni hacer manifestaciones o declaraciones en forma
-individual o colectiva.
- TÍTULO II
- LOS COSTARRICENSES   Capítulo Único 
-**Artículo 13**- Son costarricenses
-por nacimiento: 
+(*) Reformado el artículo 11 por la Ley N°8003 de 8 de junio de 2000, publicada en La Gaceta N° 126 de 30 de junio de 2000.
+
+**Artículo 12**- 
+Se proscribe el Ejército como institución permanente. Para la vigilancia y conservación del orden público,habrá las fuerzas de policía necesarias. Sólo por convenio continental o para la defensa nacional podrán organizarse fuerzas militares; unas y otras estarán siempre subordinadas al poder civil; no podrán deliberar, ni hacer manifestaciones o declaraciones en forma individual o colectiva.
+
+TÍTULO II
+LOS COSTARRICENSES   
+
+Capítulo Único 
+
+**Artículo 13**- 
+Son costarricenses por nacimiento: 
+
 1) El hijo de padre o madre costarricense nacido en el territorio de la
 República; 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
-____ 
 
-
-2) El hijo de padre o madre costarricense por nacimiento,
-que nazca en el
-extranjero, y se inscriba como tal en el Registro Civil, por la voluntad del
-progenitor costarricense, mientras sea
-menor de edad, o por la propia hasta
+2) El hijo de padre o madre costarricense por nacimiento, que nazca en el extranjero, y se inscriba como tal en el Registro Civil, por la voluntad del progenitor costarricense, mientras sea menor de edad, o por la propia hasta
 cumplir veinticinco años; 
-3) El hijo de padres extranjeros nacido
-en Costa Rica que se inscriba como
-costarricense, por voluntad
-de cualquiera de sus progenitores mientras sea
-menor de edad, o por la propia hasta cumplir veinticinco años; 
+
+3) El hijo de padres extranjeros nacido en Costa Rica que se inscriba como costarricense, por voluntad de cualquiera de sus progenitores mientras sea menor de edad, o por la propia hasta cumplir veinticinco años; 
+
 4) El infante, de padres ignorados, encontrado en Costa Rica.
 
-**Artículo 14**- (*) Son costarricenses por naturalización:  1) Los que hayan adquirido esta nacionalidad en virtud de leyes anteriores. 
-2) Los nacionales de otros países de
-Centroamérica, los españoles y los
-iberoamericanos por nacimiento que hayan residido oficialmente en el país
-durante cinco años como mínimo y que cumplan con los demás requisitos
-que fije la ley. 
-3) Los centroamericanos, los españoles y
-los iberoamericanos que no lo sean
-por nacimiento y los demás
-extranjeros que hayan residido oficialmente en el
-país durante siete años como mínimo y que cumplan con los demás
-requisitos que fije la ley. 
-4) La mujer extranjera que al contraer
-matrimonio con costarricense pierda
-su nacionalidad. 
-5) Las personas extranjeras que al casarse con costarricenses pierdan su
-nacionalidad o que luego de haber estado casadas dos años con
-costarricenses, y de residir por ese mismo período en el país, manifiesten su
-deseo de adquirir la nacionalidad costarricense.
-(*) Reformado el inciso 5) de la Ley N° 7879 de 27 de mayo de 1999, publicada en La
-Gaceta N° 118 de 18 de junio de 1999.
-6) Quienes ostenten la nacionalidad honorífica otorgada por la Asamblea
-Legislativa. 
-(*) Reformado el artículo 14 por la Ley N°
-7065 de 21 de mayo de 1987, publicada en el
-tomo I de la Colección de
-Leyes y Decretos de 1987.
- **Artículo 15**-
-(*) Quien solicite la naturalización deberá: acreditar su buena
-conducta, demostrar que tiene oficio
-o medio de vivir conocido, que sabe
-hablar, escribir y leer el idioma
-español, someterse a un examen
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
-____ 
+**Artículo 14**- 
+(*) Son costarricenses por naturalización:  
+1) Los que hayan adquirido esta nacionalidad en virtud de leyes anteriores. 
 
+2) Los nacionales de otros países de Centroamérica, los españoles y los iberoamericanos por nacimiento que hayan residido oficialmente en el país durante cinco años como mínimo y que cumplan con los demás requisitos que fije la ley.
 
-comprensivo de la historia del país y sus valores, prometer que residirá en el
-territorio nacional de modo regular y jurar que respetará el orden
-constitucional de la República. 
-Por medio de ley se establecerán los requisitos y la forma para tramitar la
-solicitud de naturalización.  (*) Reformado el artículo 15 por la Ley N°
-7065 de 21 de mayo de 1987, publicada en el
-tomo I de la Colección de
-Leyes y Decretos de 1987. 
-**Artículo 16**- (*) La calidad de costarricense no se
-pierde y es irrenunciable. 
-(*) Reformado por la Ley N° 7514 de 6 de junio de 1995, publicada en La Gaceta N° 122 de
-27 de junio de 1995.
+3) Los centroamericanos, los españoles y los iberoamericanos que no lo sean por nacimiento y los demás extranjeros que hayan residido oficialmente en el país durante siete años como mínimo y que cumplan con los demás requisitos que fije la ley.
+
+4) La mujer extranjera que al contraer matrimonio con costarricense pierda su nacionalidad.
+
+5) Las personas extranjeras que al casarse con costarricenses pierdan su nacionalidad o que luego de haber estado casadas dos años con costarricenses, y de residir por ese mismo período en el país, manifiesten su deseo de adquirir la nacionalidad costarricense.
+
+(*) Reformado el inciso 5) de la Ley N° 7879 de 27 de mayo de 1999, publicada en La Gaceta N° 118 de 18 de junio de 1999.
+
+6) Quienes ostenten la nacionalidad honorífica otorgada por la Asamblea Legislativa.
+
+(*) Reformado el artículo 14 por la Ley N° 7065 de 21 de mayo de 1987, publicada en el tomo I de la Colección de Leyes y Decretos de 1987.
+
+**Artículo 15**-
+(*) Quien solicite la naturalización deberá: acreditar su buena conducta, demostrar que tiene oficio o medio de vivir conocido, que sabe hablar, escribir y leer el idioma español, someterse a un examen comprensivo de la historia del país y sus valores, prometer que residirá en el territorio nacional de modo regular y jurar que respetará el orden constitucional de la República.
+
+Por medio de ley se establecerán los requisitos y la forma para tramitar la solicitud de naturalización.  (*) Reformado el artículo 15 por la Ley N°7065 de 21 de mayo de 1987, publicada en el tomo I de la Colección de Leyes y Decretos de 1987.
+
+**Artículo 16**- 
+(*) La calidad de costarricense no se pierde y es irrenunciable. 
+(*) Reformado por la Ley N° 7514 de 6 de junio de 1995, publicada en La Gaceta N° 122 de 27 de junio de 1995.
+
  **Artículo 17**-
-(*) La adquisición de la nacionalidad trasciende a los hijos
-menores de edad conforme a la reglamentación establecida en la ley.  (*) Reformado el artículo 17 por el artículo
-1 de la Ley N° 7514 de 6 de junio de 1995,
-publicada en La Gaceta N° 122 de 27 de junio de 1995.
+(*) La adquisición de la nacionalidad trasciende a los hijos menores de edad conforme a la reglamentación establecida en la ley.  (*) Reformado el artículo 17 por el artículo 1 de la Ley N° 7514 de 6 de junio de 1995, publicada en La Gaceta N° 122 de 27 de junio de 1995.
+
  **Artículo 18**-
-Los costarricenses deben observar la Constitución y las leyes,
-servir a la Patria, defenderla y contribuir para los gastos públicos
+Los costarricenses deben observar la Constitución y las leyes, servir a la Patria, defenderla y contribuir para los gastos públicos
  
 TÍTULO III
- LOS EXTRANJEROS
-  Capítulo Único 
+
+LOS EXTRANJEROS
+Capítulo Único 
+
 **Artículo 19**-
 Los extranjeros tienen los
 mismos deberes y derechos
@@ -179,9 +88,7 @@ jurisdicción de los tribunales de justicia
 y de las autoridades de la República,
 sin que puedan ocurrir a la vía diplomática, salvo lo que dispongan los
 convenios internacionales.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -225,9 +132,7 @@ podrán los Tribunales de Justicia ordenar el secuestro, registro o examen de
 los documentos privados, cuando sea absolutamente indispensable para esclarecer asuntos sometidos a su conocimiento. 
 Igualmente, la ley determinará en cuáles casos podrán los Tribunales de
 Justicia ordenar que se intervenga cualquier tipo de comunicación e indicará
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -276,9 +181,7 @@ serán reglamentadas por la ley.
 Se garantiza la libertad de petición, en forma individual o
 colectiva, ante cualquier funcionario público o entidad oficial, y el derecho a
 obtener pronta resolución.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
  
@@ -329,9 +232,7 @@ tomo II de la Colección de Leyes y Decretos
 de 1968; y posteriormente por la Ley N° 7880
 de 27 de mayo de 1999, publicada en La
 Gaceta N° 118 de 18 de junio de 1999.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
  
@@ -379,9 +280,7 @@ medio de violencia será nula.
 **Artículo 41**-
 Ocurriendo a las leyes, todos han de encontrar reparación
 para las injurias o daños que hayan recibido en su persona, propiedad o
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -431,9 +330,7 @@ agricultura e industria.  Es de interés público la acción del Estado encamina
 o tendencia monopolizadora. 
 Las empresas constituidas en monopolios de hecho deben ser sometidas a
 una legislación especial. 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -482,9 +379,7 @@ de los administrados.
 3124 de 25 de junio de 1963, publicada en el
 tomo I de la Colección de
 Leyes y Decretos de 1963.
- ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+ 
 ____ 
 
 
@@ -526,9 +421,7 @@ madre y del menor estará a cargo
 de una institución autónoma denominada
 Patronato Nacional de la Infancia,
 con la colaboración de las otras instituciones del Estado.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
  
@@ -579,9 +472,7 @@ exclusivo de obtener y conservar beneficios
 económicos, sociales o profesionales. 
 Queda prohibido a los extranjeros ejercer dirección o autoridad en los
 sindicatos.
- ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+ 
 ____ 
 
 
@@ -625,9 +516,7 @@ necesarias para la higiene y seguridad del trabajo.
 
 **Artículo 67**-
 El Estado velará por la preparación técnica y cultural de los
-trabajadores.  ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+trabajadores.  
 ____ 
 
 
@@ -671,9 +560,7 @@ patronos y se regirán por disposiciones especiales.
 (*) Reformado el artículo 73 por la Ley N°
 2737 de 12 de mayo de 1961, publicada en La
 Gaceta N° 111 de 17 de mayo de 1961.
- ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+ 
 ____ 
 
 
@@ -713,9 +600,7 @@ organizada como un proceso
 integral correlacionado en sus diversos
 ciclos, desde la pre-escolar hasta la
 universitaria.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
  
@@ -768,9 +653,7 @@ es una institución de cultura
 superior que goza de independencia para el desempeño de sus funciones y
 de plena capacidad jurídica para adquirir derechos y contraer obligaciones,
 así como para darse su organización y gobierno propios. Las demás
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -823,9 +706,7 @@ de 1977; y posteriormente por la Ley N° 6580
 de 18 de mayo de 1981, publicada en el tomo
 I de la Colección de
 Leyes y Decretos de
-1981. ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+1981. 
 ____ 
 
  
@@ -867,9 +748,7 @@ políticos que corresponde a los costarricenses mayores de dieciocho años.
 4763 de 17 de mayo de 1971, publicada en el
 tomo II de la Colección de
 Leyes y Decretos de 1971.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -912,9 +791,7 @@ cédula con fotografía u otro medio
 técnico adecuado dispuesto
 por ley para tal efecto; 
 6) Garantías de representación para las minorías. 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -964,9 +841,7 @@ y reforma, el voto de dos tercios del
 total de los miembros
 de la Asamblea
 Legislativa 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1012,9 +887,7 @@ Del Tribunal dependen los demás organismos electorales.
 ordinariamente por tres Magistrados propietarios y seis suplentes,
 nombrados por la Corte Suprema de Justicia por los votos de no menos de
 los dos tercios del total de sus miembros. Deberán reunir iguales condiciones
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1064,9 +937,7 @@ funciones:
 3) Interpretar en forma exclusiva
 y obligatoria las disposiciones
 constitucionales y legales referentes a la materia electoral; 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1115,9 +986,7 @@ mínimo, para las reformas parciales de
 la Constitución y los asuntos que
 requieran aprobación legislativa
 por mayoría calificada. (Reforma
-Constitucional 8281 de 28 de mayo de 2002) ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+Constitucional 8281 de 28 de mayo de 2002) 
 ____ 
 
 
@@ -1158,9 +1027,7 @@ salvo por los tratados, conforme a los
 principios del Derecho Internacional.
 El pueblo también podrá ejercer esta potestad mediante el referéndum, para
 aprobar o derogar leyes y reformas parciales de la Constitución, cuando lo
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1204,9 +1071,7 @@ residir en el país después de haber obtenido la nacionalidad;
 No pueden ser elegidos Diputados, ni inscritos como
 candidatos para esa función: 
 1) El Presidente de la República o quien lo sustituya en el ejercicio de la
-Presidencia al tiempo de la elección;  ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+Presidencia al tiempo de la elección;  
 ____ 
 
 
@@ -1253,9 +1118,7 @@ o en otras instituciones de enseñanza superior del Estado.
 (*) Reformado el artículo 111 por la Ley N°
 3118 de 16 de mayo de 1963, y posteriormente
 por la Ley N° 5697 de 9 de junio de 1975.
- ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+ 
 ____ 
 
 
@@ -1306,9 +1169,7 @@ treinta y uno de julio, y del primero de
 setiembre al treinta de noviembre.  Una legislatura comprende las sesiones ordinarias y
 extraordinarias
 celebradas entre el primero de mayo
-y el treinta de abril siguiente.  ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+y el treinta de abril siguiente.  
 ____ 
 
 
@@ -1348,9 +1209,7 @@ CAPÍTULO II  Atribuciones de la Asamblea Legislativa   **Artículo 121.-
 (*) Además de las otras atribuciones que le confiere esta
 Constitución, corresponde exclusivamente a la Asamblea Legislativa:  1) Dictar las leyes, reformarlas, derogarlas y darles interpretación auténtica,
 salvo lo dicho en el capítulo referente al Tribunal
-Supremo de Elecciones;  ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+Supremo de Elecciones;  
 ____ 
 
 
@@ -1401,9 +1260,7 @@ de las renuncias de los miembros de
 los Supremos Poderes, con excepción de
 los Ministros de Gobierno; resolver
 las dudas que ocurran en caso de incapacidad física o mental de quien ejerza
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1445,9 +1302,7 @@ gravados, directa o indirectamente, ni salir en forma alguna del dominio y
 control del Estado. 
 15) Aprobar o improbar los empréstitos o convenios similares que se
 relacionen con el crédito público, celebrados por el Poder Ejecutivo. 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1493,9 +1348,7 @@ persona, con el objeto de interrogarla;
 24) Formular interpelaciones a los Ministros de Gobierno, y además, por dos
 tercios de votos presentes, censurar
 a los mismos funcionarios, cuando a
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1537,9 +1390,7 @@ forma, los requisitos y las demás
 condiciones que deben cumplir los proyectos de ley de iniciativa popular.
 (*) Reformado el artículo 123 por el inciso b) del artículo 1 de la Ley N° 8381 de 28 de mayo
 de 2002, publicada en La Gaceta N° 118 de 20 de junio de 2002.
- ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+ 
 ____ 
 
 
@@ -1599,9 +1450,7 @@ través de los trámites ordinarios de éstas.
 (*) Reformado el artículo 124 por Ley N° 5702 de
 5 de junio de 1975; y posteriormente por
 la Ley N° 7347 de 1 de julio de 1993, publicada en La Gaceta N° 137 de 20 de julio de 1993.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
  
@@ -1658,9 +1507,7 @@ Gaceta N° 166 de 1 de setiembre de 1989.
 (*) Las leyes son obligatorias y surten efectos desde el día
 que ellas designen; a falta de este requisito, diez días después de su
 publicación en el Diario Oficial. 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1693,9 +1540,7 @@ requiere:  1) Ser costarricense por nacimiento y ciudadano en ejercicio;
 2) Ser del estado seglar; 
 3) Ser mayor de treinta años. 
 **Artículo 132.- (*) No podrá ser elegido Presidente ni Vicepresidente: 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1744,9 +1589,7 @@ principio de alternabilidad en el ejercicio de la Presidencia, o el de la libre
 sucesión presidencial, consagrados por esta Constitución implicarán traición
 a la República. La responsabilidad derivada de tales actos será
 imprescriptible.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
  
@@ -1800,9 +1643,7 @@ tampoco podrán abstenerse de figurar en
 la segunda elección los candidatos
 de las dos nóminas que hubieran obtenido mayor número de votos en la
 primera. 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1849,9 +1690,7 @@ cuenta inmediatamente a la Asamblea. El
 decreto de suspensión de garantías
 equivale, ipso facto, a la convocatoria de la Asamblea a sesiones, la cual
 deberá reunirse dentro de las cuarenta y ocho horas siguientes. Si la
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1898,9 +1737,7 @@ Presupuesto Nacional en
 la oportunidad y con los requisitos determinados en esta Constitución; 
 16) Disponer de la fuerza pública para preservar el orden, defensa y
 seguridad del país; 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1942,9 +1779,7 @@ residencia en el país, después de
 haber obtenido la nacionalidad; 
 3) Ser del estado seglar 
 4) Haber cumplido veinticinco años de edad.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -1994,9 +1829,7 @@ ejército y negociar la paz;  2) Ejercer el derecho de gracia en
 la forma que indique la ley; 
 3) Nombrar y remover a los Representantes
 Diplomáticos de la República; 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2044,9 +1877,7 @@ legislativos;
 coarten a los Tribunales la libertad con que deben juzgar las causas
 sometidas a su decisión, o cuando
 obstaculicen en alguna forma las
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2086,9 +1917,7 @@ que establezca la ley, cualquiera que
 sea su naturaleza y la calidad de las
 personas que intervengan; resolver definitivamente sobre ellas y ejecutar las
 resoluciones que pronuncie, con la ayuda de la fuerza pública si fuere
-necesario.  ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+necesario.  
 ____ 
 
 
@@ -2136,9 +1965,7 @@ lo contrario. Las vacantes serán llenadas para períodos completos de ocho
 años. (*) Reformado el artículo 158 por Ley N° 8365 de 15 de julio de 2003, publicada en La
 Gaceta N° 146 de 31 de julio de 2003. 
 **Artículo 159.- (*) Para ser Magistrado se requiere: 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2188,9 +2015,7 @@ los treinta días naturales posteriores
 al vencimiento del período respectivo o
 de la fecha en que se comunique que
 ha ocurrido una vacante.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2239,9 +2064,7 @@ del total de los miembros de la Asamblea.
  
 
 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2284,9 +2107,7 @@ Gaceta N° 132 de 10 de julio de 2001.
 (*) Los regidores Municipales serán
 elegidos por cuatro años
 y desempeñarán sus cargos obligatoriamente. 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2327,9 +2148,7 @@ para que resuelva definitivamente.
 **Artículo 174.-
 La ley indicará en qué casos necesitarán las Municipalidades
 autorización legislativa para contratar empréstitos, dar en garantía sus
-bienes o rentas, o enajenar bienes muebles o inmuebles.  ",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+bienes o rentas, o enajenar bienes muebles o inmuebles.  
 ____ 
 
 
@@ -2376,9 +2195,7 @@ embargo, cuando esta suma
 resultare superior
 a la requerida para cubrir las
 necesidades fundamentales presupuestas por ese Poder, el Departamento
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2428,9 +2245,7 @@ Todo proyecto de modificación que implique aumento o creación de gastos
 deberá sujetarse a lo dispuesto en el artículo anterior. 
 Sin embargo, cuando la Asamblea esté en receso, el Poder Ejecutivo podrá
 variar el destino de una partida autorizada, o abrir créditos adicionales, pero
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2478,9 +2293,7 @@ de los Supremos Poderes.  El Contralor y Subcontralor responden
 ante la Asamblea por el cumplimiento
 de sus funciones y pueden ser removidos por ella, mediante votación no
 menor de las dos terceras partes del total de sus miembros, si en el
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2524,9 +2337,7 @@ La Tesorería está a cargo de un Tesorero Nacional y de un
 Subtesorero. Ambos funcionarios gozan
 de independencia en el ejercicio de
 sus atribuciones, las cuales serán reguladas por la ley. Los nombramiento se
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2562,9 +2373,7 @@ sus miembros.
 Para la discusión y aprobación de proyectos relativos a una
 institución autónoma, la Asamblea Legislativa oirá previamente la opinión de
 aquélla.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2602,9 +2411,7 @@ destino?
 -Sí, juro-. 
 -Si así lo hiciereis, Dios os ayude, y
 si no, El y la Patria os lo demanden\".
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2649,9 +2456,7 @@ votos del total de los miembros de
 la Asamblea, formará parte de la
 Constitución, y se comunicará al Poder Ejecutivo para su publicación y
 observancia.
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2693,9 +2498,7 @@ sesiones siguientes a la publicación
 de la presente ley; dos
 de ellos los escogerá de
 entre los miembros de la
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2740,9 +2543,7 @@ de 1965, publicada en el tomo II de la
 Colección de Leyes y Decretos de 1965.
  (**Artículo 105).- (*) Las leyes especiales referidas en los artículos 105 y 123
 de la Constitución Política, aquí reformados, deberán dictarse dentro del año
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2794,9 +2595,7 @@ artículo 132 anteriores a esta reforma.
 (*) Reformado por Ley N° 4349 de 11 de julio
 de 1969, publicada en el tomo II de la
 Colección de Leyes y Decretos de 1969. 
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
@@ -2849,9 +2648,7 @@ Colección de Leyes y Decretos de 1961.
 (**Artículo 177, párrafo Tercero).- (*) La Caja Costarricense de Seguro
 Social deberá realizar la universalización de los diversos seguros puestos a
 su cargo, incluyendo la protección familiar en el régimen de enfermedad y
-",
-  "Tribunal Supremo de Elecciones
-Normativa www.tse.go.cr
+
 ____ 
 
 
