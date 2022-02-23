@@ -2,4 +2,4 @@
 
 * [MI CONSTITUCION](README.md)
 * [Complete](complete/README.md)
-  * [Consti](Complete/costarica.md)
+  * [Constitucion - CR](Complete/costarica.md)
