@@ -290,12 +290,8 @@ Artículo 38.- Ninguna persona puede ser reducida a prisión por deuda.
 Artículo 39.- A nadie se hará sufrir pena sino por delito,
 sancionados por ley anterior y en virtud de sentencia
 autoridad competente, previa oportunidad concedida
-ejercitar su defensa y mediante la necesaria demostración
-
-cuasidelito o falta,
-firme dictada por
-al indiciado para
-de culpabilidad.
+ejercitar su defensa y mediante la necesaria demostración cuasidelito o falta,
+firme dictada por al indiciado para de culpabilidad.
 
 No constituyen violación a este artículo o a los dos anteriores, el apremio
 corporal en materia civil o de trabajo o las detenciones que pudieren
@@ -340,6 +336,7 @@ cualquier acto, aunque fuere originado en una ley, que amenace o restrinja
 la libertad de comercio, agricultura e industria.
 Es de interés público la acción del Estado encaminada a impedir toda práctica
 o tendencia monopolizadora.
+
 Las empresas constituidas en monopolios de hecho deben ser sometidas a
 una legislación especial.
 
@@ -371,25 +368,8 @@ Gaceta N° 166 de 1 de setiembre de 1989.
 Artículo 49.- (*) Establécese la jurisdicción contencioso-administrativa como
 atribución del Poder Judicial, con el objeto de garantizar la legalidad de la
 función administrativa del Estado, de sus instituciones y de toda otra entidad
-de derecho público.
-La desviación de
-administrativos.
-
-poder
-
-será
-
-motivo
-
-de
-
-impugnación
-
-de
-
-los
-
-actos
+de derecho público. La desviación de administrativos. poder será motivo de impugnación de
+los actos
 
 La ley protegerá, al menos, los derechos subjetivos y los intereses legítimos
 de los administrados.
